@@ -1,0 +1,2 @@
+require'morhetz/gruvbox'.setup {
+}
